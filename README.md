@@ -72,7 +72,7 @@
 *   [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) - An eye-dropper & color-picker tool that allows you to select color values from webpages
 *   [Github Markdown Outline Extension](https://chrome.google.com/webstore/detail/github-markdown-outline-e/gccinjjdbfdkkkebfbeipopijjfohfgj) - Displays a clickable outline of all topic headers for markdown documents on Github
 *   [Gitter Helper for GitHub](https://chrome.google.com/webstore/detail/gitter-helper-for-github/apahfabdianobklhejoojcpmoegaolpi) - This extension makes it easy to see if a GitHub project has a Gitter room
-*   [ExtensionJavaScript Breakpoint Collection](https://chrome.google.com/webstore/detail/javascript-breakpoint-col/kgpjjblahlmjlfljfpcneapmeblichbp) - Find code that is responsible for page behavior
+*   [JavaScript Breakpoint Collection](https://chrome.google.com/webstore/detail/javascript-breakpoint-col/kgpjjblahlmjlfljfpcneapmeblichbp) - Find code that is responsible for page behavior
 *   [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents
 *   [Lovely forks](https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib) - Show notable forks of Github projects
 *   [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Explore npm dependencies on GitHub repos
