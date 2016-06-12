@@ -6,9 +6,8 @@
 
 ## Remote Hosting
 
-*   [Surge](https://surge.sh/) - Static web publishing
-for Front-End Developers
-*   [Stout](http://stout.is/) - Stout is a deploy tool for static websites. It takes a website and uploads it to S3 in a more reliable way than other tools
+*   [Surge](https://surge.sh/) - Static web publishing for Front-End Developers
+*   [Stout](http://stout.is/) - It takes a website and uploads it to S3 in a more reliable way than other tools
 *   [Netlify](http://stout.is/) - Netlify builds, deploys and hosts your front-end
 *   [Now](https://zeit.co/now) - Realtime node.js deployments
 
@@ -68,8 +67,9 @@ for Front-End Developers
 > [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 
 *   [45to75](https://chrome.google.com/webstore/detail/45to75/efmppndinjbljeellfdkpghgblenbcdd) - Character counter for helping to optimize line length (measure) between 45 and 75 characters
+*   [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb) - Accessibility audit and element properties.
 *   [AWRStudyr](https://chrome.google.com/webstore/detail/awrstudyr/mbkehkfjhncahcaggkncdaacfnikmoid) - AWRStudyr is a Chrome extension that offers powerful SEO & web technologies insights each time you open a new web page
-*   [Capture Webpage Screenshot Entirely](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg) - Capture FULL webpage screenshots, edit and save them to PDF/JPEG/GIF/PNG/BMP; upload, print, send to Photoshop, clipboard or email
+*   [Color Contrast Analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll) - Analyze a web page or portion of a web page for conformance with WCAG 2.0 Color Contrast requirements
 *   [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) - An eye-dropper & color-picker tool that allows you to select color values from webpages
 *   [CSS Dig](https://chrome.google.com/webstore/detail/css-dig/lpnhmlhomomelfkcjnkcacofhmggjmco) - Collect and analyze CSS
 *   [Daydream](https://chrome.google.com/webstore/detail/daydream/oajnmbophdhdobfpalhkfgahchpcoali) - A chrome extension to record your actions into a [Nightmare](http://www.nightmarejs.org/) script.
@@ -78,7 +78,9 @@ for Front-End Developers
 *   [Deb.js](https://chrome.google.com/webstore/detail/debjs/egmeoknjmgikkkcdicmajkbkmkcmbiah) - The tiniest debugger in the world
 *   [Emmet LiveStyle](https://chrome.google.com/webstore/detail/emmet-livestyle/diebikgmpmeppiilkaijjbdgciafajmg) - The first bi-directional real-time edit tool for CSS, LESS and SCSS
 *   [Emmet Re:view](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp) - Fast and easy way to test your responsive design in multiple viewports
+*   [Fireshot](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg) - Capture FULL webpage screenshots, edit and save them to PDF/JPEG/GIF/PNG/BMP; upload, print, send to Photoshop, clipboard or email
 *   [Ghost Inspector](https://chrome.google.com/webstore/detail/ghost-inspector-automated/aicdiabnghjnejfempeinmnphllefehc) - [Ghost Inspector](https://app.ghostinspector.com/) extension for recording automated browser tests
+*   [Github +1s](https://chrome.google.com/webstore/detail/github-%201s/lddfkkebajnpiicnpfamebilmhamkeme) - Shows you the counts and avatars of those noisy '+1' comments and hides the original comments
 *   [Github Markdown Outline Extension](https://chrome.google.com/webstore/detail/github-markdown-outline-e/gccinjjdbfdkkkebfbeipopijjfohfgj) - Displays a clickable outline of all topic headers for markdown documents on Github
 *   [GitHub Similar Repositories](https://chrome.google.com/webstore/detail/github-similar-repositori/ilohmipmgoellpajalkccofkgdheomfh) - Discover & upvote similar git repos on GitHub
 *   [GitHub Stars Tagger](https://chrome.google.com/webstore/detail/github-stars-tagger/aaihhjepepgajmehjdmfkofegfddcabc) - Add your own tags to the repositories you have starred directly on GitHub
@@ -94,6 +96,7 @@ for Front-End Developers
 *   [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - Makes source file dependencies navigable in GitHub 
 *   [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Code tree for GitHub and GitLab
 *   [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) - Draw a ruler to get pixel dimensions and positioning, and measure elements on any web page
+*   [Perfmap](https://chrome.google.com/webstore/detail/perfmap/hgpnhiajcdppfbogcpfdgcceepgkhdmk) - Heatmap of resources loaded in the browser using the Resource Timing API
 *   [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) -  Put a semi-transparent image overlay over the top of the developed HTML and perform per pixel comparison between them
 *   [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf) - Get insight into the performance of the website in the current tab
 *   [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo) - Sends requests fired through the [Postman](https://www.getpostman.com/) chrome app
