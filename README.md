@@ -6,8 +6,11 @@
 
 ## Remote Hosting
 
-*   [https://github.com/sintaxi/surge](https://github.com/sintaxi/surge)
-*   [https://zeit.co/now](https://zeit.co/now)
+*   [Surge](https://surge.sh/) - Static web publishing
+for Front-End Developers
+*   [Stout](http://stout.is/) - Stout is a deploy tool for static websites. It takes a website and uploads it to S3 in a more reliable way than other tools
+*   [Netlify](http://stout.is/) - Netlify builds, deploys and hosts your front-end
+*   [Now](https://zeit.co/now) - Realtime node.js deployments
 
 ## Logging
 
