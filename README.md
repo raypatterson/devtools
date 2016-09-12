@@ -1,8 +1,18 @@
 # Dev Tools
 
-## Local Hosting
+## Local Servers
 
-*   [https://github.com/typicode/hotel](https://github.com/typicode/hotel)
+### Static Files
+
+*   [HTTP Server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server.
+*   [Live Server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
+*   [Hotel](https://github.com/typicode/hotel) - Start apps from your browser and get local domains without editing /etc/hosts.
+
+### Node Apps
+
+*   [Nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server perfect for development.
+*   [PM2](https://github.com/Unitech/pm2) - Production process manager for Node.js apps with a built-in load balancer.
+*   [Ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost.
 
 ## Remote Hosting
 
@@ -14,50 +24,58 @@
 
 ## Logging
 
-*   [https://github.com/mixu/minilog](https://github.com/mixu/minilog)
+*   [Minilog](https://github.com/mixu/minilog) - Lightweight client & server-side logging with Stream-API backends.
 
 ## Control Flow
 
-*   [https://github.com/matthewmueller/vo](https://github.com/matthewmueller/vo)
+*   [Vo](https://github.com/matthewmueller/vo) - Minimalist, yet complete control flow library.
 
 ## Linting
 
-*   [https://github.com/sindresorhus/xo](https://github.com/sindresorhus/xo)
+*   [XO](https://github.com/sindresorhus/xo) - Happiness JavaScript linter.
+*   [Stylelint](https://github.com/stylelint/stylelint) - A mighty, modern CSS linter. 
 
 ## Testing
 
-*   [https://github.com/testdouble/testdouble.js](https://github.com/testdouble/testdouble.js)
-*   [https://github.com/Automattic/expect.js](https://github.com/Automattic/expect.js)
-*   [https://github.com/hapijs/lab](https://github.com/hapijs/lab)
-*   [https://github.com/sindresorhus/ava](https://github.com/sindresorhus/ava)
-*   [https://github.com/spion/blue-tape](https://github.com/spion/blue-tape)
+*   [Testdouble](https://github.com/testdouble/testdouble.js)
+*   [Expect](https://github.com/Automattic/expect.js)
+*   [Lab](https://github.com/hapijs/lab)
+*   [Ava](https://github.com/sindresorhus/ava)
+*   [Blue Tape](https://github.com/spion/blue-tape)
 
 ## Building a CLI
 
-*   [https://github.com/dthree/vorpal](https://github.com/dthree/vorpal)
-*   [https://github.com/SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-*   [https://github.com/tj/commander.js](https://github.com/tj/commander.js)
-*   [https://github.com/js-cli/js-liftoff ?](https://github.com/js-cli/js-liftoff)
+*   [Vorpal](https://github.com/dthree/vorpal)
+*   [Inquirer](https://github.com/SBoudrias/Inquirer.js)
+*   [Commander](https://github.com/tj/commander.js)
+*   [JS Liftoff](https://github.com/js-cli/js-liftoff)
 
 ## Packaging
 
-*   [https://github.com/JamieMason/shrinkpack](https://github.com/JamieMason/shrinkpack)
-*   [https://github.com/goodeggs/clingwrap](https://github.com/goodeggs/clingwrap)
-*   [https://github.com/Snyk/snyk](https://github.com/Snyk/snyk)
-*   [https://github.com/HenrikJoreteg/fixpack](https://github.com/HenrikJoreteg/fixpack)
-*   [https://github.com/dylang/npm-check](https://github.com/dylang/npm-check)
-*   [https://github.com/peerigon/updtr](https://github.com/peerigon/updtr)
-*   [https://github.com/davglass/license-checker](https://github.com/davglass/license-checker)
+*   [Shrinkpack](https://github.com/JamieMason/shrinkpack)
+*   [Clingwrap](https://github.com/goodeggs/clingwrap)
+*   [Snyk](https://github.com/Snyk/snyk)
+*   [Fixpack](https://github.com/HenrikJoreteg/fixpack)
+*   [NPM Check](https://github.com/dylang/npm-check)
+*   [Updtr](https://github.com/peerigon/updtr)
+*   [Linkr](https://github.com/fusionalliance/linkr)
+*   [License Checker](https://github.com/davglass/license-checker)
+*   [Commitizen](https://github.com/commitizen/cz-cli) - The commitizen command line utility.
+*   [Semantic Release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
+*   [Ghooks](https://github.com/gtramontina/ghooks) - Simple git hooks.
+*   [NTL](https://github.com/ruyadorno/ntl) - Npm Task List: Interactive cli menu to list/run npm tasks.
+*   [NSP](https://github.com/nodesecurity/nsp) - Node security platform command-line tool.
+*   [Plop](https://github.com/amwmedia/plop) - Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity.
 
 ## Ajax
 
-*   [https://github.com/visionmedia/superagent](https://github.com/visionmedia/superagent)
+*   [Superagent](https://github.com/visionmedia/superagent)
 
 ## Build Scripts
 
-*   [https://github.com/testdouble/scripty](https://github.com/testdouble/scripty)
-*   [https://github.com/sindresorhus/execa](https://github.com/sindresorhus/execa)
-*   [https://github.com/sindresorhus/loud-rejection](https://github.com/sindresorhus/loud-rejection)
+*   [Scripty](https://github.com/testdouble/scripty)
+*   [Execa](https://github.com/sindresorhus/execa)
+*   [Loud Rejection](https://github.com/sindresorhus/loud-rejection)
 
 ## Data
 
